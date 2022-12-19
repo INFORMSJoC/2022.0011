@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2022 David Eckman, Shane Henderson, and Sara Shashaani.
+
 import numpy as np
 import os
 import csv

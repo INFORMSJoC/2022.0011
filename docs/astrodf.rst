@@ -1,3 +1,7 @@
+..
+    MIT License
+    Copyright (c) 2022 David Eckman, Shane Henderson, and Sara Shashaani.
+
 Solver: Adaptive Sampling Trust-Region Optimization for Derivative-Free Simulations (ASTRODF)
 =============================================================================================
 

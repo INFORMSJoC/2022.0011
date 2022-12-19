@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2022 David Eckman, Shane Henderson, and Sara Shashaani.
+
 """
 This script is intended to help with a large experiment with
 5 solvers (two versions of random search, ASTRO-DF, STRONG, and Nelder-Mead)

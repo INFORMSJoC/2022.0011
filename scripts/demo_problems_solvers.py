@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2022 David Eckman, Shane Henderson, and Sara Shashaani.
+
 """
 This script is intended to help with debugging problems and solvers.
 It create problem-solver groups (using the directory) and runs multiple
