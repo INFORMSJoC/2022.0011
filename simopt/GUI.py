@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2022 David Eckman, Shane Henderson, and Sara Shashaani.
+
 from email.policy import default
 from os import path
 from random import expovariate

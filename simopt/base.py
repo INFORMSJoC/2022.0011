@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+
+# MIT License
+# Copyright (c) 2022 David Eckman, Shane Henderson, and Sara Shashaani.
+
 """
 Summary
 -------

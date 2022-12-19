@@ -1,3 +1,7 @@
+..
+    MIT License
+    Copyright (c) 2022 David Eckman, Shane Henderson, and Sara Shashaani.
+
 Model: Multi-Stage Revenue Management with Inter-Temporal Dependence (RMITD)
 ============================================================================
 

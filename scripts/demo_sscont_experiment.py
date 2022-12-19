@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2022 David Eckman, Shane Henderson, and Sara Shashaani.
+
 """
 This script runs five solvers on 20 versions of the (s, S) inventory problem.
 Produces plots appearing in the INFORMS Journal on Computing submission.

@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2022 David Eckman, Shane Henderson, and Sara Shashaani.
+
 """
 This script is intended to help with running a data-farming experiment on
 a solver. It creates a design of solver factors and runs multiple

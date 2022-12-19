@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2022 David Eckman, Shane Henderson, and Sara Shashaani.
+
 """
 This script is intended to help with debugging a model.
 It imports a model, initializes a model object with given factors,
