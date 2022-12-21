@@ -12,7 +12,7 @@ in the development repository.
 
 To cite this software, please cite the [paper](???) and the software, using the following DOI.
 
-[![DOI](???)](???)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7468744.svg)](https://doi.org/10.5281/zenodo.7468744)
 
 Below is the BibTex for citing this version of the code.
 
@@ -20,10 +20,10 @@ Below is the BibTex for citing this version of the code.
 @article{simoptijoc,
   author =        {D. J. Eckman and S. G. Henderson and S. Shashaani},
   publisher =     {INFORMS Journal on Computing},
-  title =         {SimOpt: A Testbed for Simulation-Optimization Experiments},
+  title =         {SimOpt: A Testbed for Simulation-Optimization Experiments Versions v2022.0011},
   year =          {2022},
-  doi =           {???},
-  url =           {???},
+  doi =           {10.5281/zenodo.7468744},
+  url =           {https://github.com/INFORMSJoC/2022.0011},
 }  
 ```
 
