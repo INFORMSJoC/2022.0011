@@ -1,15 +1,12 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-This project is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+This project is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are associated with the paper [SimOpt: A Testbed for Simulation-Optimization Experiments](???) by D. J. Eckman, S. G. Henderson, and S. Shashaani. 
+The software and data in this repository are a snapshot of the software and data
+that were used in the paper SimOpt: A Testbed for Simulation-Optimization Experiments by D. J. Eckman, S. G. Henderson, and S. Shashaani. The snapshot is based on [this release](https://github.com/simopt-admin/simopt/releases/tag/v1.0.0) 
+in the development repository. 
 
-## Version
-
-The version used in the paper is
-
-[![Release](v1.0.0)](https://github.com/simopt-admin/simopt/releases/tag/v1.0.0)
+**Important: This code is being developed on an on-going basis at https://github.com/simopt-admin/simopt. Please go there if you would like to get a more recent version or would like support**
 
 ## Cite
 
