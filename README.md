@@ -10,9 +10,7 @@ in the development repository.
 
 ## Cite
 
-To cite this software, please cite the [paper](???) and the software, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7468744.svg)](https://doi.org/10.5281/zenodo.7468744)
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2023.1273) and the software, using the following DOI: [https://doi.org/10.1287/ijoc.2023.1273.cd](https://doi.org/10.1287/ijoc.2023.1273.cd)
 
 Below is the BibTex for citing this version of the code.
 
@@ -22,7 +20,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {SimOpt: A Testbed for Simulation-Optimization Experiments Versions v2022.0011},
   year =          {2022},
-  doi =           {10.5281/zenodo.7468744},
+  doi =           {10.1287/ijoc.2023.1273.cd},
   url =           {https://github.com/INFORMSJoC/2022.0011},
 }  
 ```
